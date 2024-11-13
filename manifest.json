@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+  "id": "EvCarCharging plugin",
+  "name": "电车充电记录",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "记录充电记录，计算能耗",
+  "author": "ismezy@qq.com",
+  "authorUrl": "https://github.com/ismezy",
+  "fundingUrl": "https://github.com/ismezy",
+  "isDesktopOnly": false
 }
